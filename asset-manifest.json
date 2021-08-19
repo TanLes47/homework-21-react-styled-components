@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/homework-21-react-styled-components/static/js/main.b50c81fb.chunk.js",
+    "main.js.map": "/homework-21-react-styled-components/static/js/main.b50c81fb.chunk.js.map",
+    "runtime-main.js": "/homework-21-react-styled-components/static/js/runtime-main.9c28f03e.js",
+    "runtime-main.js.map": "/homework-21-react-styled-components/static/js/runtime-main.9c28f03e.js.map",
+    "static/js/2.626aeabc.chunk.js": "/homework-21-react-styled-components/static/js/2.626aeabc.chunk.js",
+    "static/js/2.626aeabc.chunk.js.map": "/homework-21-react-styled-components/static/js/2.626aeabc.chunk.js.map",
+    "static/js/3.41b681fd.chunk.js": "/homework-21-react-styled-components/static/js/3.41b681fd.chunk.js",
+    "static/js/3.41b681fd.chunk.js.map": "/homework-21-react-styled-components/static/js/3.41b681fd.chunk.js.map",
+    "index.html": "/homework-21-react-styled-components/index.html",
+    "static/js/2.626aeabc.chunk.js.LICENSE.txt": "/homework-21-react-styled-components/static/js/2.626aeabc.chunk.js.LICENSE.txt",
+    "static/media/PageNotFound.0db58d4e.bin": "/homework-21-react-styled-components/static/media/PageNotFound.0db58d4e.bin",
+    "static/media/padlock.9fc8846a.svg": "/homework-21-react-styled-components/static/media/padlock.9fc8846a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c28f03e.js",
+    "static/js/2.626aeabc.chunk.js",
+    "static/js/main.b50c81fb.chunk.js"
+  ]
+}
